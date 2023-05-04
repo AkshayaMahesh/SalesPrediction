@@ -11,4 +11,4 @@
 
 🎉 Our project has been successful in accurately forecasting store sales, and we hope to expand our approach to other domains.
 
-![image]()
+<img width="384" alt="Screen Shot 2023-05-03 at 20 47 46" src="https://user-images.githubusercontent.com/97194041/236081748-059c496d-8a9e-4ff2-a7fe-b1d366473577.png">
